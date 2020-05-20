@@ -16,3 +16,15 @@ Wyświetla informacje na temat katalogu projeku
 Wyświetla logi w jednej linii
 
 `git log --oneline`
+
+###VIM
+:q! – wyjście bez zapisania zmian
+:w plik – zapisanie w nowym pliku „plik”
+
+### git branch
+Tworzy nowy branch
+
+`git branch new`
+
+### git branch -d develop
+Usuwa gałąź o nazwie develop 
