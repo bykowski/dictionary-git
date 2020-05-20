@@ -11,3 +11,7 @@ Skonfigurowanie klienta gita - dodanie nazwy użytkownika i email
 Wyświetla informacje na temat katalogu projeku
 
 `git status`
+
+### git stash
+
+tymczasowo odkłada (lub ukrywa) zmiany wprowadzone w kopii roboczej, aby móc pracować nad czymś innym, a następnie wrócić i ponownie zastosować je później.
