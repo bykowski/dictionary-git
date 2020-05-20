@@ -12,5 +12,10 @@ Wyświetla informacje na temat katalogu projeku
 
 `git status`
 
+### git merge
+Scalanie gałęzi 
+
+`git merge  nazwa_gałęzi`
+
 ### git branch -d develop
 Usuwa gałąź o nazwie develop 
