@@ -12,6 +12,11 @@ Wyświetla informacje na temat katalogu projeku
 
 `git status`
 
+### git log --oneline
+Wyświetla logi w jednej linii
+
+`git log --oneline`
+
 ###VIM
 :q! – wyjście bez zapisania zmian
 :w plik – zapisanie w nowym pliku „plik”
