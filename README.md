@@ -12,7 +12,12 @@ Wyświetla informacje na temat katalogu projeku
 
 `git status`
 
+
 ### git log
 Wyświetla historie commitów
 
 `git log`
+
+### git branch -d develop
+Usuwa gałąź o nazwie develop 
+
