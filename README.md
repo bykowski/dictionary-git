@@ -16,4 +16,6 @@ Wyświetla informacje na temat katalogu projeku
 Scalanie gałęzi 
 
 `git merge  nazwa_gałęzi`
- 
+
+### git branch -d develop
+Usuwa gałąź o nazwie develop 
