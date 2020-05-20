@@ -1,2 +1,7 @@
-example text
-moje zmiany
+# Dictionary git
+
+#### git merge
+Scalanie gałęzi
+
+
+
