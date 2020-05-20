@@ -15,4 +15,5 @@ Wyświetla informacje na temat katalogu projeku
 ### git merge
 Scalanie gałęzi 
 
-'git merge  nazwa_gałęzi'
+`git merge  nazwa_gałęzi`
+ 
