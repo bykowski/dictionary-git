@@ -29,4 +29,4 @@ Tworzy nowy branch
 ### git branch -d develop
 Usuwa gałąź o nazwie develop 
 
-### git commit -m "commit_name" - commit do lokalnego repozytorium
+### git commit -m "commit_name" - commit do lokalnego repozytorium 
