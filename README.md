@@ -28,3 +28,16 @@ Tworzy nowy branch
 
 ### git branch -d develop
 Usuwa gałąź o nazwie develop 
+
+### git stash 
+Zapamiętanie listy zmian na stosie
+
+`git stash`
+
+### git stash list 
+Wyświetlenie listy zmian na stosie
+
+`git stash list`
+
+
+
