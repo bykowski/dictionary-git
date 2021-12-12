@@ -27,4 +27,8 @@ Tworzy nowy branch
 `git branch new`
 
 ### git branch -d develop
-Usuwa gałąź o nazwie develop 
+Usuwa gałąź o nazwie develop
+
+### git merge
+
+łączenie gałęzi 
